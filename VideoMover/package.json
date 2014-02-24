@@ -1,0 +1,14 @@
+{
+  "name": "VideoMover",
+  "version": "0.0.0",
+  "description": "VideoMover",
+  "main": "app.js",
+  "author": {
+    "name": "paulp_000",
+    "email": ""
+  },
+  "dependencies": {
+    "walk": "~2.3.1",
+    "mv": "~1.0.0"
+  }
+}
